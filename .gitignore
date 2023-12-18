@@ -1,0 +1,15 @@
+*.xml
+*.iml
+*.bin
+/shelf/
+/workspace.xml
+*.idx
+*.bat
+*.jar
+*.html
+*.js
+*.css
+*.class
+*.properties
+*.probe
+*.lock
